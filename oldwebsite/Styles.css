@@ -1,0 +1,10 @@
+body {
+  background: white;
+  background-attachment: fixed;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
